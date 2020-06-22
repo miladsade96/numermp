@@ -13,3 +13,9 @@ Multi-Threaded Numerical Methods Implemented In Fortran, Wrapped In Python.
 Website:  
 Source: https://github.com/EverLookNeverSee/numerify  
 Issue tracker: https://github.com/EverLookNeverSee/numerify/issues
+
+### Installation:
+Using pip:
+```bash
+$ pip install numerify
+```
