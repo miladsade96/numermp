@@ -19,3 +19,13 @@ Using pip:
 ```bash
 $ pip install numerify
 ```
+
+### Testing:
+Navigate to numerify root directory:
+```bash
+$ cd numerify
+```
+and then run pytest:
+```bash
+pytest -v numerify
+```
