@@ -27,5 +27,5 @@ $ cd numerify
 ```
 and then run pytest:
 ```bash
-pytest -v numerify
+$ pytest -v numerify
 ```
