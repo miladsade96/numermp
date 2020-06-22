@@ -1,2 +1,4 @@
-# numerify
-Numerical method implemented in fortran and wrapped in python
+![](logo.png)
+
+# Numerify
+Multi-Threaded Numerical Methods Implemented In Fortran, Wrapped In Python.
