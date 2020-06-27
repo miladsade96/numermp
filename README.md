@@ -1,7 +1,6 @@
 ![](logo.png)
 
-# NumerMP
-Multi-Threaded Numerical Methods Implemented In Fortran, Wrapped In Python.
+#### Multi-Threaded Numerical Methods Implemented In Fortran, Wrapped In Python.
 
 ## Dependencies:
 * Python >= 3.7
