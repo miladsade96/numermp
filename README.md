@@ -12,19 +12,3 @@
 Website:  
 Source: https://github.com/EverLookNeverSee/numermp  
 Issue tracker: https://github.com/EverLookNeverSee/numermp/issues
-
-## Installation:
-Using pip:
-```bash
-$ pip install numermp
-```
-
-## Testing:
-Navigate to numermp root directory:
-```bash
-$ cd numermp
-```
-and then run pytest:
-```bash
-$ pytest -v numermp
-```
